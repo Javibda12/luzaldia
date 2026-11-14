@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://javibda12.github.io/luzaldia/sitemap.xml
